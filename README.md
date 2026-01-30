@@ -2,9 +2,11 @@
 🛡️ Skeleton Sentinel
 A gamified, pixel-art system monitor that brings a "soul" to your hardware telemetry.
 Skeleton Sentinel is not just another hardware monitor. It’s a desktop guardian that lives and breathes based on your PC's workload. Built with Python and PyQt6, it transforms dry CPU/RAM data into a dynamic pixel-art performance.
+
 🌟 Key Features
+
 🎮 Dynamic State Machine
-The sentinel reacts to your system stress with 6 distinct, hand-picked pixel-art animations:
+The sentinel reacts to your system stress with 4 distinct, hand-picked pixel-art animations:
 
 Idle: Peaceful guarding when your CPU is chilling (< 20%).
 
@@ -12,9 +14,7 @@ Walk: Patrolling your desktop during routine tasks (20% - 60%).
 
 Attack: Combat mode activated when heavy processes strike (60% - 90%).
 
-React: A "surprised" reaction to sudden CPU spikes (> 25% jump).
-
-Hit: Visual feedback when memory usage is critically high (> 85%).
+Hit: Visual feedback when manually double-clicked or when RAM is critically high (> 85%).
 
 🛠️ Technical Prowess
 Ultra-Lightweight: Minimal footprint on your system resources (monitored by psutil).
