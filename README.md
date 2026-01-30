@@ -8,11 +8,11 @@ Skeleton Sentinel is not just another hardware monitor. It’s a desktop guardia
 🎮 Dynamic State Machine
 The sentinel reacts to your system stress with 4 distinct, hand-picked pixel-art animations:
 
-Idle: Peaceful guarding when your CPU is chilling (< 20%).
+Idle: Peaceful guarding when your CPU is chilling (< 30%).
 
-Walk: Patrolling your desktop during routine tasks (20% - 60%).
+Walk: Patrolling your desktop during routine tasks (30% - 70%).
 
-Attack: Combat mode activated when heavy processes strike (60% - 90%).
+Attack: Combat mode activated when heavy processes strike (70% - 90%).
 
 Hit: Visual feedback when manually double-clicked or when RAM is critically high (> 85%).
 
