@@ -35,15 +35,6 @@ Run: Extract the files and double-click SkeletonSentinel.exe.
 
 Interact: Watch him struggle as you open a Chrome tab or render a 3D model.
 
-🎨 Credits & Acknowledgments
-The incredible pixel art animations are provided by:
-
-Artist: [Author Name/Link]
-
-License: Used under [License Type, e.g., CC-BY].
-
-Note: Please contact me if there are any copyright concerns—I'll handle it immediately.
-
 💡 Why Star this Project?
 As an IoT Engineering student ranked 5th out of 60, I designed this to prove that system tools can be both functional and fun. If you like the idea of a skeleton guardian "dying" for your heavy workloads, give it a ⭐!
 # 🎨 Credits & Assets
