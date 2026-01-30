@@ -1,0 +1,15 @@
+{
+    "pet_name": "Skeleton_Sentinel_v1.0",
+    "pet_size": 160,
+    "refresh_rate": 1000,
+    "cpu_busy": 30,
+    "cpu_attack": 70,
+    "cpu_extreme": 90,
+    "mem_danger": 80,
+    "actions": {
+        "idle": "idle.gif",
+        "walk": "walk.gif",
+        "attack": "attack.gif",
+        "hit": "hit.gif"
+    }
+}
